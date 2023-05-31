@@ -1,7 +1,7 @@
 <h1 align="center"> My Pilas </h1>
 
 <p align="center">
-Web page development of management software for small businesses.
+Desenvolvimento de página web de software de gestão para pequenas empresas.
 </p>
 
 <p align="center">
@@ -24,18 +24,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML 5 ( `Metodologia BEM` )
 - CSS 3
 - Javascript
-- 
-
-</br>
-
-## 📚 Conteúdos que foram utilizados e tratados no projeto
-
-- 
-- 
-- 
-- 
-- 
--
 
 </br>
 
